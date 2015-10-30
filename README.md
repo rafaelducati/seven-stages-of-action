@@ -1,6 +1,6 @@
 # Seven stages of action
 
-**Seven stages of action** is a term coined by the [usability](/wiki/Usability "Usability") consultant [Donald Norman](/wiki/Donald_Norman "Donald Norman"). He explains this phrase in chapter two of his book _[The Design of Everyday Things](/wiki/The_Design_of_Everyday_Things "The Design of Everyday Things")_, in the context of explaining the psychology of a person behind the task performed by him or her.
+**Seven stages of action** is a term coined by the [usability](https://en.wikipedia.org/wiki/Usability "Usability") consultant [Donald Norman](https://en.wikipedia.org/wiki/Don_Norman "Donald Norman"). He explains this phrase in chapter two of his book _[The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things "The Design of Everyday Things")_, in the context of explaining the psychology of a person behind the task performed by him or her.
 
 With a foot in psychology, Norman explains the user’s cognitive process as she/he interacts with technology in daily life using, among others, a model called seven stages of action to explain how human beings interact with the physical world.
 
@@ -16,4 +16,4 @@ The identified steps are:
 6.  Interpreting the state of the world
 7.  Evaluating the outcome
 
-_ - Under construction - _
+_Under construction_
